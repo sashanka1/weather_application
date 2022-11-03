@@ -1,0 +1,67 @@
+ {/* <div className='maincontentdiv'>
+        <div>
+            <p>fir</p>
+            <p>29* 19*</p>
+            <div className='imgdiv'>
+            <img src="https://previews.123rf.com/images/glopphy/glopphy1411/glopphy141100111/33876636-green-hill-with-sun-logo-vector-icon.jpg" alt="" />
+            </div>
+           
+            <p>sunny</p>
+        </div>
+        <div>
+            <p>fir</p>
+            <p>29* 19*</p>
+            <div className='imgdiv'>
+            <img src="https://previews.123rf.com/images/glopphy/glopphy1411/glopphy141100111/33876636-green-hill-with-sun-logo-vector-icon.jpg" alt="" />
+            </div>
+           
+            <p>sunny</p>
+        </div>
+
+        <div>
+            <p>fir</p>
+            <p>29* 19*</p>
+            <div className='imgdiv'>
+            <img src="https://previews.123rf.com/images/glopphy/glopphy1411/glopphy141100111/33876636-green-hill-with-sun-logo-vector-icon.jpg" alt="" />
+            </div>
+           
+            <p>sunny</p>
+        </div>
+
+        <div>
+            <p>fir</p>
+            <p>29* 19*</p>
+            <div className='imgdiv'>
+            <img src="https://previews.123rf.com/images/glopphy/glopphy1411/glopphy141100111/33876636-green-hill-with-sun-logo-vector-icon.jpg" alt="" />
+            </div>
+           
+            <p>sunny</p>
+        </div>
+        <div>
+            <p>fir</p>
+            <p>29* 19*</p>
+            <div className='imgdiv'>
+            <img src="https://previews.123rf.com/images/glopphy/glopphy1411/glopphy141100111/33876636-green-hill-with-sun-logo-vector-icon.jpg" alt="" />
+            </div>
+           
+            <p>sunny</p>
+        </div>
+        <div>
+            <p>fir</p>
+            <p>29* 19*</p>
+            <div className='imgdiv'>
+            <img src="https://previews.123rf.com/images/glopphy/glopphy1411/glopphy141100111/33876636-green-hill-with-sun-logo-vector-icon.jpg" alt="" />
+            </div>
+           
+            <p>sunny</p>
+        </div>
+        <div>
+            <p>fir</p>
+            <p>29* 19*</p>
+            <div className='imgdiv'>
+            <img src="https://previews.123rf.com/images/glopphy/glopphy1411/glopphy141100111/33876636-green-hill-with-sun-logo-vector-icon.jpg" alt="" />
+            </div>
+           
+            <p>sunny</p>
+        </div>
+    </div> */}

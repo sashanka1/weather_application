@@ -1,0 +1,35 @@
+.card{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    height: 40px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+}
+.card>p{
+    /* border: 1px solid green; */
+    display: inline;
+    justify-self: left;
+    font-size: 14px;
+    font-weight: 700;
+    font-style: italic;
+    margin-left: -1px;
+    text-align: center;
+    justify-content: center;
+    padding: 6px;
+}
+.card>div{
+    display: flex;
+   
+    justify-content: space-around;
+}
+.card>div>p,div{
+    padding: 4px;
+    font-size: 14px;
+    font-weight: 700;
+    font-style: italic;
+}
